@@ -1,7 +1,8 @@
 # Hi, welcome my repository!
 
-Informatica para negocios - FATEC
-Pós graduação em gestão de projetos - Anhembi Morumbi
+- Informatica para negocios - FATEC
+- Pós graduação em gestão de projetos - Anhembi Morumbi
+
 ---
 
 <div>
